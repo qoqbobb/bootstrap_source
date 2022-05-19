@@ -1,0 +1,24 @@
+
+@charset 'utf-8';
+
+
+        /* .col-md-6{
+            boreder: 1px solid black;
+        } */
+        table, th, td{
+            text-align: center;
+        }
+        th{
+            background-color: #ccc;
+            border: 1px solid blue !important;
+        }
+
+        tr, td{
+            vertical-align: middle !important;
+        }
+        /* div{
+            text-align: center;
+        } */
+        ul{
+            list-style: none;
+        }
